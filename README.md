@@ -25,4 +25,4 @@ CTRL + a + r
 ```
 
 ## Gallery
-
+![image](https://github.com/user-attachments/assets/5b70049f-b78e-45e9-a987-230336d3b57c)
