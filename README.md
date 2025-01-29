@@ -1,6 +1,12 @@
 # TMUX
 This is my tmux configuration
 
+# Required
+- [TMUX](https://github.com/tmu)
+- [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads)
+- [TPM](https://github.com/tmux-plugins/tpm)
+- [Catppuccin/Tmux](https://github.com/catppuccin/tmux)
+
 ## How to use
 Git Clone 
 ```cmd
